@@ -152,11 +152,11 @@ A collection of projects, experiments, and my development journey.
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mansigole/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
