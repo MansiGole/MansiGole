@@ -53,6 +53,17 @@ If it solves a real problem, I want to build it.
 
 ---
 
+## CURRENTLY WORKING ON
+
+```
+  Mastering Full-Stack Development    →   React · Node.js · REST APIs · Supabase
+  Sharpening DSA & Problem Solving    →   Arrays, Trees, Graphs, Dynamic Programming
+  Shipping Real-World Projects        →   Building products people actually use
+  Exploring AI & Modern Web           →   LLMs, AI-powered apps, modern tooling
+```
+
+---
+
 ## SYSTEM METRICS
 
 <p align="center">
