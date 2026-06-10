@@ -92,19 +92,19 @@ I am particularly interested in building applications that solve real-world prob
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MansiGole&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="98%"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MansiGole&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true" width="49%"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiGole&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=10" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiGole&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=10" width="49%"/>
 </p>
 
 ---
@@ -148,7 +148,7 @@ A collection of projects, experiments, and my development journey.
 ## CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/MansiGole">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github"/>
   </a>
 
