@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="banner.jpg" alt="Mansi Gole" width="100%"/>
-</p>
-
 <div align="center">
 
 ### Electronics & Computer Science Student | Full-Stack Developer | Problem Solver
