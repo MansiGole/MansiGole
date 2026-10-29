@@ -62,21 +62,10 @@ If it solves a real problem, I want to build it.
 
 ## SYSTEM METRICS
 
-<!-- Activity Heatmap / Snake or SVG Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MansiGole&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="98%"/>
-</p>
-
-<!-- Stats & Streak Side-by-Side -->
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MansiGole&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=MansiGole&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiGole&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8" width="49%"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MansiGole&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiGole&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=6" width="48%"/>
+</div>
 
 ---
 
