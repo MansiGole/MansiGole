@@ -101,8 +101,6 @@ If it solves a real problem, I want to build it.
 
 ## FEATURED PROJECTS
 
-## FEATURED PROJECTS
-
 **[NyxEquities](https://github.com/MansiGole/NyxEquities)** — Institutional off-hours liquidity and execution terminal for tokenized stocks on BSC Mainnet with Venus Protocol integration.
   
 **[Neural-Ledger](https://github.com/MansiGole/Neural-Ledger)** — AI-driven self-healing webhook reconciliation engine for resilient data pipelines.
