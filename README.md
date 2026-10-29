@@ -43,7 +43,7 @@ turning curiosity into code.
 
 ## ABOUT ME
 
-I'm **Mansi Gole**, a second-year Electronics & Computer Science student from India.
+I'm **Mansi Gole**, a third-year Electronics & Computer Science student from India.
 
 I sit at the intersection of hardware intuition and software craft — which means I think about systems from the ground up. My focus right now is full-stack web development: building applications that are fast, functional, and actually useful to people.
 
@@ -101,11 +101,13 @@ If it solves a real problem, I want to build it.
 
 ## FEATURED PROJECTS
 
-**VitaLink** — Healthcare platform improving accessibility and user experience.
+## FEATURED PROJECTS
 
-**Web3 Wallet Verification Tool** — Blockchain-based secure wallet authentication.
+**[NyxEquities](https://github.com/MansiGole/NyxEquities)** — Institutional off-hours liquidity and execution terminal for tokenized stocks on BSC Mainnet with Venus Protocol integration.
+  
+**[Neural-Ledger](https://github.com/MansiGole/Neural-Ledger)** — AI-driven self-healing webhook reconciliation engine for resilient data pipelines.
 
-**Personal Portfolio** — Projects, experiments, and my development journey.
+**[UniData](https://github.com/MansiGole/UniData)** — Contributed to and extended a decentralized marketplace for buying and evaluating verified datasets on-chain.
 
 ---
 
