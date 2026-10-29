@@ -62,10 +62,10 @@ If it solves a real problem, I want to build it.
 
 ## SYSTEM METRICS
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MansiGole&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiGole&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=6" width="48%"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MansiGole&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MansiGole&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=6" width="49%"/>
+</p>
 
 ---
 
