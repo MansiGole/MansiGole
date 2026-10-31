@@ -1,6 +1,10 @@
 <!-- Banner -->
 <div align="center">
 
+<a href="https://MansiGole.github.io/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-E9A6A6?style=for-the-badge&logo=googlechrome&logoColor=171624"/>
+  </a>
+
 ### Electronics & Computer Science Student | Full-Stack Developer | Problem Solver
 
 Building modern web applications that **solve real-world problems** —
